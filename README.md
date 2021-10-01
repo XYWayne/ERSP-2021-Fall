@@ -17,7 +17,7 @@
   - [ ] Slides for Neural Ranking https://sites.cs.ucsb.edu/~tyang_class/293s20f/slides/TopicNeuralRank2020.pdf
   - [ ] Slides for BERT Contextual Representation https://sites.cs.ucsb.edu/~tyang_class/293s20f/slides/TopicNeuralBERT.pdf
 
-### Thursday, 9/30 ()
+### Thursday, 9/30 (1.5 hours)
   - [x] Set up the log
   - [x] Meet with other team members
   - [x] Log Reflection https://docs.google.com/document/d/1lO85GyFYiFGisDReEWeQMZMmULjN3BYVCqTgphkd2Qc/edit?usp=sharing
