@@ -1,5 +1,19 @@
 # Xiyue's Research Log
 
+## Week 2 (10/4 - 10/10)
+### Goals of the week:
+* Attending all the lectures and meetings
+  - [ ] Attend all the lectures held by prof. Mirza
+  - [ ] Meet with professor Yang and other team members
+
+* Reading the assigned paper
+  - [ ] Write the first-time reflection
+  - [ ] Write the second-time reflection
+  - [ ] Take notes from the sldies
+
+### Tuesday, 10/15 (1.2 hours)
+  - [x] Write the first-time reflection https://docs.google.com/document/d/10OV2a7DNk77HRNYNzAZPRDUMHZiOLgmtj3PAAuu-syg/edit?usp=sharing
+
 ## Week 1 (9/27 - 10/3)
 ### Goals of the week:
 * Attending all the lectures and meetings
