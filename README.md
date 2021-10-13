@@ -1,33 +1,45 @@
 # Xiyue's Research Log
 
-## Week 2 (10/4 - 10/10)
+## Week 3 (10/11 - 10/17)
 ### Goals of the week:
 * Attending all the lectures and meetings
   - [ ] Attend all the lectures held by prof. Mirza
   - [ ] Meet with professor Yang and other team members
 
+* Studying the paper
+  - [x] Read the paper second time and complete the Griswold's form 
+
+### Tuesday, 10/12 (1 hour)
+  - [x] Read the paper second time and complete the Griswold's form https://drive.google.com/file/d/1d4zlcFHYGmwLLah5Yomze3BDCQLhdhhm/view?usp=sharing
+
+## Week 2 (10/4 - 10/10)
+### Goals of the week:
+* Attending all the lectures and meetings
+  - [x] Attend all the lectures held by prof. Mirza
+  - [x] Meet with professor Yang and other team members
+
 * Reading the assigned paper
-  - [ ] Write the first-time reflection
-  - [ ] Write the second-time reflection
+  - [x] Write the first-time reflection
+  - [x] Write the second-time reflection
   - [ ] Take notes from the sldies
 
-### Tuesday, 10/15 (1.2 hours)
+### Tuesday, 10/05 (1.2 hours)
   - [x] Write the first-time reflection https://docs.google.com/document/d/10OV2a7DNk77HRNYNzAZPRDUMHZiOLgmtj3PAAuu-syg/edit?usp=sharing
 
 ## Week 1 (9/27 - 10/3)
 ### Goals of the week:
 * Attending all the lectures and meetings
-  - [ ] Attend the first research method lecture held by prof. Mirza
-  - [ ] Attend the online Q&A session with former ERSP students via Zoom meeting
-  - [ ] Meet with other team members
+  - [x] Attend the first research method lecture held by prof. Mirza
+  - [x] Attend the online Q&A session with former ERSP students via Zoom meeting
+  - [x] Meet with other team members
   
 * Set up the research log
-  - [ ] Create the log and complete the content of week 1
-  - [ ] Practicing using Github Markdown
+  - [x] Create the log and complete the content of week 1
+  - [x] Practicing using Github Markdown
 
 * Learn the fundamentals of the project
   - [ ] Watch the lecture recordings https://sites.cs.ucsb.edu/~tyang_class/293s20f/lectures.html
-  - [ ] Slides for Ranking and Learning https://sites.cs.ucsb.edu/~tyang_class/293s20f/slides/TopicRankSimple.pdf
+  - [x] Slides for Ranking and Learning https://sites.cs.ucsb.edu/~tyang_class/293s20f/slides/TopicRankSimple.pdf
   - [ ] Slides for Neural Ranking https://sites.cs.ucsb.edu/~tyang_class/293s20f/slides/TopicNeuralRank2020.pdf
   - [ ] Slides for BERT Contextual Representation https://sites.cs.ucsb.edu/~tyang_class/293s20f/slides/TopicNeuralBERT.pdf
 
