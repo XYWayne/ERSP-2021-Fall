@@ -12,6 +12,14 @@
 ### Tuesday, 10/12 (1 hour)
   - [x] Read the paper second time and complete the Griswold's form https://drive.google.com/file/d/1d4zlcFHYGmwLLah5Yomze3BDCQLhdhhm/view?usp=sharing
 
+### Sunday, 10/17
+  - [ ] Set up the code environment and run the code
+
+> Resources:
+* Github repo: https://github.com/Qiaoyf96/SIGIR2021-ShortPaper-WindowNavigation
+* Machine address: 128.111.46.81
+* Instructions: https://docs.google.com/document/d/1-u6cnrcxnq8fWO9GHzreRROghtAMezgR67dnaJ8FGIg/edit?usp=sharing
+
 ## Week 2 (10/4 - 10/10)
 ### Goals of the week:
 * Attending all the lectures and meetings
