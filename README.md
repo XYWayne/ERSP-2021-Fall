@@ -6,8 +6,8 @@
   - [ ] Attend all the lectures held by prof. Mirza
   - [ ] Meet with professor Yang and other team members
 
-### Tuesday
-  - [ ] Literature search part 1
+### Tuesday (1.5 hours)
+  - [ ] Literature search part 1 https://docs.google.com/document/d/1pgt6e-IY4VpHdpZZxBT0gDucFd8xhIc0aJM4ykhxvJs/edit?usp=sharing
 
 ## Week 4 (10/18 - 10/24)
 ### Goals of the week:
