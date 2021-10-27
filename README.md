@@ -1,10 +1,29 @@
 # Xiyue's Research Log
 
-## Week 3 (10/11 - 10/17)
+## Week 5 (10/25 - 10/31)
 ### Goals of the week:
 * Attending all the lectures and meetings
   - [ ] Attend all the lectures held by prof. Mirza
   - [ ] Meet with professor Yang and other team members
+
+### Tuesday
+  - [ ] Literature search part 1
+
+## Week 4 (10/18 - 10/24)
+### Goals of the week:
+* Attending all the lectures and meetings
+  - [x] Attend all the lectures held by prof. Mirza
+  - [x] Meet with professor Yang and other team members
+
+* Getting familiar with the source code
+  - [ ] Run the course code using different block sizes
+  - [ ] Read the code and get a general picture of the functions of each sections
+
+## Week 3 (10/11 - 10/17)
+### Goals of the week:
+* Attending all the lectures and meetings
+  - [x] Attend all the lectures held by prof. Mirza
+  - [x] Meet with professor Yang and other team members
 
 * Studying the paper
   - [x] Read the paper second time and complete the Griswold's form 
@@ -13,7 +32,7 @@
   - [x] Read the paper second time and complete the Griswold's form https://drive.google.com/file/d/1d4zlcFHYGmwLLah5Yomze3BDCQLhdhhm/view?usp=sharing
 
 ### Sunday, 10/17
-  - [ ] Set up the code environment and run the code
+  - [x] Set up the code environment and run the code
 
 > Resources:
 * Github repo: https://github.com/Qiaoyf96/SIGIR2021-ShortPaper-WindowNavigation
