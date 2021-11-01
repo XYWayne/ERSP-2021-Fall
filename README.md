@@ -7,7 +7,10 @@
   - [ ] Meet with professor Yang and other team members
 
 ### Tuesday (1.5 hours)
-  - [ ] Literature search part 1 https://docs.google.com/document/d/1pgt6e-IY4VpHdpZZxBT0gDucFd8xhIc0aJM4ykhxvJs/edit?usp=sharing
+  - [x] Literature search part 1 https://docs.google.com/document/d/1pgt6e-IY4VpHdpZZxBT0gDucFd8xhIc0aJM4ykhxvJs/edit?usp=sharing
+
+### Sunday (1 hour)
+  - [x] Literature search part 2 https://docs.google.com/document/d/10EANZ14f1PpQI7K2v10rTIpenjkVh_tfk03oJPAQ22U/edit?usp=sharing
 
 ## Week 4 (10/18 - 10/24)
 ### Goals of the week:
