@@ -1,10 +1,22 @@
 # Xiyue's Research Log
 
+## Week 6 (11/1 - 11/7)
+### Goals of the week:
+* Attending all the lectures and meetings
+  - [x] Attend all the lectures held by prof. Mirza
+  - [x] Meet with professor Yang and other team members
+  - [x] Running the code to compare the running times of different ranking algorithms
+
+### Tuesday (2 hours)
+  - [x] Compare running times for BMW against tp https://docs.google.com/document/d/1lBzo4IOiPQu44dwOj3cSMD2CcCywsDDmB9h-Behl_oI/edit?usp=sharing
+
+
 ## Week 5 (10/25 - 10/31)
 ### Goals of the week:
 * Attending all the lectures and meetings
-  - [ ] Attend all the lectures held by prof. Mirza
-  - [ ] Meet with professor Yang and other team members
+  - [x] Attend all the lectures held by prof. Mirza
+  - [x] Meet with professor Yang and other team members
+  - [x] Reading the paper _Learning Passage Impacts for Inverted Indexes_
 
 ### Tuesday (1.5 hours)
   - [x] Literature search part 1 https://docs.google.com/document/d/1pgt6e-IY4VpHdpZZxBT0gDucFd8xhIc0aJM4ykhxvJs/edit?usp=sharing
@@ -51,7 +63,7 @@
 * Reading the assigned paper
   - [x] Write the first-time reflection
   - [x] Write the second-time reflection
-  - [ ] Take notes from the sldies
+  - [x] Take notes from the sldies
 
 ### Tuesday, 10/05 (1.2 hours)
   - [x] Write the first-time reflection https://docs.google.com/document/d/10OV2a7DNk77HRNYNzAZPRDUMHZiOLgmtj3PAAuu-syg/edit?usp=sharing
@@ -68,10 +80,10 @@
   - [x] Practicing using Github Markdown
 
 * Learn the fundamentals of the project
-  - [ ] Watch the lecture recordings https://sites.cs.ucsb.edu/~tyang_class/293s20f/lectures.html
+  - [x] Watch the lecture recordings https://sites.cs.ucsb.edu/~tyang_class/293s20f/lectures.html
   - [x] Slides for Ranking and Learning https://sites.cs.ucsb.edu/~tyang_class/293s20f/slides/TopicRankSimple.pdf
-  - [ ] Slides for Neural Ranking https://sites.cs.ucsb.edu/~tyang_class/293s20f/slides/TopicNeuralRank2020.pdf
-  - [ ] Slides for BERT Contextual Representation https://sites.cs.ucsb.edu/~tyang_class/293s20f/slides/TopicNeuralBERT.pdf
+  - [x] Slides for Neural Ranking https://sites.cs.ucsb.edu/~tyang_class/293s20f/slides/TopicNeuralRank2020.pdf
+  - [x] Slides for BERT Contextual Representation https://sites.cs.ucsb.edu/~tyang_class/293s20f/slides/TopicNeuralBERT.pdf
 
 ### Thursday, 9/30 (1.5 hours)
   - [x] Set up the log
