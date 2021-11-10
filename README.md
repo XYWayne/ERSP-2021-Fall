@@ -1,5 +1,15 @@
 # Xiyue's Research Log
 
+## Week 7 (11/8 - 11/14)
+### Goals of the week:
+* Attending all the lectures and meetings
+  - [x] Attend all the lectures held by prof. Mirza
+  - [x] Meet with professor Yang and other team members
+  - [ ] Proposal plans & drafts
+
+### Tuesday (3 hours)
+  - [x] Complete the rough draft of the proposal https://docs.google.com/document/d/1juBwI5f6ocpAUUeuo2fGLzBURRoiWgWZzMW_WeuJIaQ/edit?usp=sharing
+
 ## Week 6 (11/1 - 11/7)
 ### Goals of the week:
 * Attending all the lectures and meetings
