@@ -41,10 +41,15 @@
   - [x] Attend all the lectures held by prof. Mirza
   - [x] Meet with professor Yang and other team members
   - [x] Running the code to compare the running times of different ranking algorithms
+  - [x] Read paper on [deepimpact](https://dl.acm.org/doi/abs/10.1145/3404835.3463030) and have a genaral idea of DeepImpact.
+  - [x] Skim the code of [Pyserini](https://github.com/castorini/pyserini) and get ready to work in the new environment.
 
 ### Tuesday (2 hours)
   - [x] Compare running times for BMW against tp https://docs.google.com/document/d/1lBzo4IOiPQu44dwOj3cSMD2CcCywsDDmB9h-Behl_oI/edit?usp=sharing
 
+### Wednesday (2 hours)
+  - [x] Read paper on [deepimpact](https://dl.acm.org/doi/abs/10.1145/3404835.3463030) and have a genaral idea of DeepImpact.
+  - [x] Skim the code of [Pyserini](https://github.com/castorini/pyserini) and get ready to work in the new environment.
 
 ## Week 5 (10/25 - 10/31)
 ### Goals of the week:
