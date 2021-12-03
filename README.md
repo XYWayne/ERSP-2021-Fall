@@ -19,8 +19,11 @@
   - [x] Attend all the lectures held by prof. Mirza
   - [x] Meet with professor Yang and other team members
 
+### Monday (3.5 hours)
+  - [x] Revising the proposal and ready to be presented nd submitted. https://drive.google.com/file/d/1tkyXKOCIls-mqviUEJ_I0oCw3eJih94_/view?usp=sharing
+
 ### Monday (3 hours)
-  - [x] Compare the running time for: BM25 vs. tp, with and without DeepImpact.
+  - [x] Compare the running time for: BM25 vs. tp, with and without DeepImpact. https://docs.google.com/document/d/1nRdQTa0xpU_lwwlqXK5D3NfvQM9iGufTw_6AaLPHYfI/edit?usp=sharing
 
 ## Week 7 (11/8 - 11/14)
 ### Goals of the week:
