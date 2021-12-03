@@ -1,5 +1,18 @@
 # Xiyue's Research Log
 
+## Week 10 (11/29 - 12/5)
+### Goals of the week:
+* Attending all the lectures and meetings
+  - [x] Attend all the lectures held by prof. Mirza
+  - [x] Meet with professor Yang and other team members
+
+## Week 9 (11/22 - 11/28)
+### Goals of the week:
+* Attending all the lectures and meetings
+  - [x] Attend all the lectures held by prof. Mirza
+  - [x] Meet with professor Yang and other team members
+
+
 ## Week 8 (11/15 - 11/21)
 ### Goals of the week:
 * Attending all the lectures and meetings
@@ -7,7 +20,7 @@
   - [x] Meet with professor Yang and other team members
 
 ### Monday (3 hours)
-  - [x] Compare the running time for: BM25 vs. tp, 
+  - [x] Compare the running time for: BM25 vs. tp, with and without DeepImpact.
 
 ## Week 7 (11/8 - 11/14)
 ### Goals of the week:
