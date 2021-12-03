@@ -12,6 +12,11 @@
   - [x] Attend all the lectures held by prof. Mirza
   - [x] Meet with professor Yang and other team members
 
+### Monday (3 hours)
+  - [x] Remove all the stopwords from queryFile and test if it makes the algorithm faster.
+ > Link to the python code: https://drive.google.com/file/d/1Hv6zz4jKJZeDbWaabeZUoY0ZfmbhSQDF/view?usp=sharing
+ > Link to the file without stopwords: https://drive.google.com/file/d/1BV-mVc3DRfpOKWVYqmKYyHeC2n1h2k_o/view?usp=sharing
+
 
 ## Week 8 (11/15 - 11/21)
 ### Goals of the week:
@@ -71,8 +76,8 @@
   - [x] Meet with professor Yang and other team members
 
 * Getting familiar with the source code
-  - [ ] Run the course code using different block sizes
-  - [ ] Read the code and get a general picture of the functions of each sections
+  - [x] Run the course code using different block sizes
+  - [x] Read the code and get a general picture of the functions of each sections
 
 ## Week 3 (10/11 - 10/17)
 ### Goals of the week:
