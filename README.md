@@ -108,6 +108,9 @@
 ### Tuesday, 10/05 (1.2 hours)
   - [x] Write the first-time reflection https://docs.google.com/document/d/10OV2a7DNk77HRNYNzAZPRDUMHZiOLgmtj3PAAuu-syg/edit?usp=sharing
 
+### Thursday (2 hours)
+  - [x] Take some notes from the paper and the book https://docs.google.com/document/d/1cmoDmqgI3NdQ3UPA5-Azk-vSC27xFefr6tLXYvVIRZg/edit?usp=sharing
+
 ## Week 1 (9/27 - 10/3)
 ### Goals of the week:
 * Attending all the lectures and meetings
