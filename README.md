@@ -6,6 +6,9 @@
   - [x] Attend all the lectures held by prof. Mirza
   - [x] Meet with professor Yang and other team members
 
+### Thursday (2 hours)
+  - [x] Met with professor and the advisor to discuss future plans. Here is the link to some thoughts: https://docs.google.com/document/d/1VwIRtAb7skF80NNCj7TuIdMJNAURtIVDr9tO8500xzc/edit?usp=sharing
+
 ## Week 9 (11/22 - 11/28)
 ### Goals of the week:
 * Attending all the lectures and meetings
@@ -14,8 +17,8 @@
 
 ### Monday (3 hours)
   - [x] Remove all the stopwords from queryFile and test if it makes the algorithm faster.
- > Link to the python code: https://drive.google.com/file/d/1Hv6zz4jKJZeDbWaabeZUoY0ZfmbhSQDF/view?usp=sharing
- > Link to the file without stopwords: https://drive.google.com/file/d/1BV-mVc3DRfpOKWVYqmKYyHeC2n1h2k_o/view?usp=sharing
+ * Link to the python code: https://drive.google.com/file/d/1Hv6zz4jKJZeDbWaabeZUoY0ZfmbhSQDF/view?usp=sharing
+ * Link to the file without stopwords: https://drive.google.com/file/d/1BV-mVc3DRfpOKWVYqmKYyHeC2n1h2k_o/view?usp=sharing
 
 
 ## Week 8 (11/15 - 11/21)
