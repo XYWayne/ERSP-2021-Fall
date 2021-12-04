@@ -6,6 +6,9 @@
   - [x] Attend all the lectures held by prof. Mirza
   - [x] Meet with professor Yang and other team members
 
+### Wednesday (1.15 hours)
+  - [x] Presentation and give feedback to other teams: https://docs.google.com/document/d/1eRMFUZeWfYCm0eBZsOkXwZkbk2U4z8Ji/edit?usp=sharing&ouid=100624676130102327912&rtpof=true&sd=true
+
 ### Thursday (2 hours)
   - [x] Met with professor and the advisor to discuss future plans. Here is the link to some thoughts: https://docs.google.com/document/d/1VwIRtAb7skF80NNCj7TuIdMJNAURtIVDr9tO8500xzc/edit?usp=sharing
 
