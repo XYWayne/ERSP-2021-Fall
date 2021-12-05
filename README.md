@@ -1,5 +1,5 @@
 # Xiyue's Research Log
-> [Revised Proposal](https://drive.google.com/file/d/1tkyXKOCIls-mqviUEJ_I0oCw3eJih94_/view?usp=sharing) of Team Prof. Yang's Project
+> [Revised Proposal](https://drive.google.com/file/d/1tkyXKOCIls-mqviUEJ_I0oCw3eJih94_/view?usp=sharing) of Team Prof. Yang's Project, ERSP Fall 2021
 
 ## Week 10 (11/29 - 12/5)
 ### Goals of the week:
@@ -34,9 +34,13 @@
 * Attending all the lectures and meetings
   - [x] Attend all the lectures held by prof. Mirza
   - [x] Meet with professor Yang and other team members
+  - [x] Proposal peer review
 
 ### Monday (3.5 hours)
   - [x] Revising the proposal and ready to be presented nd submitted. https://drive.google.com/file/d/1tkyXKOCIls-mqviUEJ_I0oCw3eJih94_/view?usp=sharing
+
+### Thursday (1 hour)
+  - [x] Read the proposal of Prof. Gupta's group and give peer review. https://docs.google.com/document/d/1zy2CYHu0Im6b3XjQZzkzz9rwV6cFFgMy/edit?usp=sharing&ouid=100624676130102327912&rtpof=true&sd=true
 
 ### Monday (3 hours)
   - [x] Compare the running time for: BM25 vs. tp, with and without DeepImpact. https://docs.google.com/document/d/1nRdQTa0xpU_lwwlqXK5D3NfvQM9iGufTw_6AaLPHYfI/edit?usp=sharing
