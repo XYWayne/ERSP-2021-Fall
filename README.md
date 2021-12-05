@@ -1,10 +1,13 @@
 # Xiyue's Research Log
+> [Revised Proposal](https://drive.google.com/file/d/1tkyXKOCIls-mqviUEJ_I0oCw3eJih94_/view?usp=sharing) of Team Prof. Yang's Project
 
 ## Week 10 (11/29 - 12/5)
 ### Goals of the week:
 * Attending all the lectures and meetings
   - [x] Attend all the lectures held by prof. Mirza
   - [x] Meet with professor Yang and other team members
+  - [x] In-class presentation
+  - [x] Graduate student interview
 
 ### Wednesday (1.15 hours)
   - [x] Presentation and give feedback to other teams: https://docs.google.com/document/d/1eRMFUZeWfYCm0eBZsOkXwZkbk2U4z8Ji/edit?usp=sharing&ouid=100624676130102327912&rtpof=true&sd=true
@@ -12,6 +15,8 @@
 ### Thursday (2 hours)
   - [x] Met with professor and the advisor to discuss future plans. Here is the link to some thoughts: https://docs.google.com/document/d/1VwIRtAb7skF80NNCj7TuIdMJNAURtIVDr9tO8500xzc/edit?usp=sharing
 
+### Friday (1 hour)
+  - [x] Record and reflect on graduate student interview https://docs.google.com/document/d/1uwScE98TXhXgjNR-9bdViAd5DPMVSiCxazoN5_nplSw/edit?usp=sharing
 ## Week 9 (11/22 - 11/28)
 ### Goals of the week:
 * Attending all the lectures and meetings
