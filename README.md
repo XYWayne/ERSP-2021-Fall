@@ -1,5 +1,5 @@
 # Xiyue's Research Log
-> [Revised Proposal](https://drive.google.com/file/d/1tkyXKOCIls-mqviUEJ_I0oCw3eJih94_/view?usp=sharing) of Team Prof. Yang's Project, ERSP Fall 2021
+> [Revised Proposal](https://drive.google.com/file/d/1tkyXKOCIls-mqviUEJ_I0oCw3eJih94_/view?usp=sharing) of Team Prof. Yang's Project, UCSB ERSP Fall 2021
 
 ## Week 10 (11/29 - 12/5)
 ### Goals of the week:
